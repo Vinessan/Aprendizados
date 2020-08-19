@@ -1,0 +1,138 @@
+.main{
+    
+        max-width: 1200px;
+        margin: auto;
+}
+    
+
+#img1 #tx{
+    position: absolute;
+    top: 15%;
+    left: 21%;
+    transform: translate(-50%,-50%);
+    width: 25%;
+    height: 20%;
+    font-size: 1vw;
+    background-color: rgb(247, 72, 72);
+    border-radius: 1vw;
+    
+}
+#img1 .img0{
+    position: absolute;
+    top: 9%;
+    left: 10%;
+    float: left;
+    width: 8%;
+    height: auto;
+    cursor: pointer; 
+}
+
+
+#img2 #tx1{
+    position: absolute;
+    top: 15%;
+    left: 47%;
+    transform: translate(-50%,-50%);
+    width: 25%;
+    height: 20%;
+    font-size: 1vw;
+    background-color: rgb(247, 72, 72);
+    border-radius: 1vw;
+}
+#img2 .img01{
+    position: absolute;
+    top: 9%;
+    left: 36%;
+    float: left;
+    width: 8%;
+    height: auto;
+    cursor: pointer; 
+}
+
+
+#img3 #tx2{
+    position: absolute;
+    top: 37%;
+    left: 21%;
+    transform: translate(-50%,-50%);
+    width: 25%;
+    height: 20%;
+    font-size: 1vw;
+    background-color: rgb(247, 72, 72);
+    border-radius: 1vw;
+}
+#img3 .img02{
+    position: absolute;
+    top: 31%;
+    left: 10%;
+    float: left;
+    width: 8%;
+    height: auto;
+    cursor: pointer; 
+}
+
+
+#img4 #tx3{
+    position: absolute;
+    top: 37%;
+    left: 47%;
+    transform: translate(-50%,-50%);
+    width: 25%;
+    height: 20%;
+    font-size: 1vw;
+    background-color: rgb(247, 72, 72);
+    border-radius: 1vw;
+}
+#img4 .img03{
+    position: absolute;
+    top: 31%;
+    left: 36%;
+    float: left;
+    width: 8%;
+    height: auto;
+    cursor: pointer; 
+}
+
+
+#img5 #tx4{
+    position: absolute;
+    top: 59%;
+    left: 21%;
+    transform: translate(-50%,-50%);
+    width: 25%;
+    height: 20%;
+    font-size: 1vw;
+    background-color: rgb(247, 72, 72);
+    border-radius: 1vw;
+}
+#img5 .img04{
+    position: absolute;
+    top: 53%;
+    left: 10%;
+    float: left;
+    width: 8%;
+    height: auto;
+    cursor: pointer; 
+}
+
+
+#img6 #tx5{
+    position: absolute;
+    top: 59%;
+    left: 47%;
+    transform: translate(-50%,-50%);
+    width: 25%;
+    height: 20%;
+    font-size: 1vw;
+    background-color: rgb(247, 72, 72);
+    border-radius: 1vw;
+}
+#img6 .img05{
+    position: absolute;
+    top: 53%;
+    left: 36%;
+    float: left;
+    width: 8%;
+    height: auto;
+    cursor: pointer; 
+}
